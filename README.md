@@ -20,8 +20,8 @@ Ensure you have Python installed on your system. You will also need the PyQt5 li
 pip install PyQt5
 ```
 ### Install Qt Designer 
-You can install it from this [link]([url](https://build-system.fman.io/qt-designer-download)).
-Note: Qt Designer is not needed for running the application. It is for modifying the UI.
+You can install it from this [Link](https://build-system.fman.io/qt-designer-download).<br>
+Note: Qt Designer is not needed for running the application. It is for modifying the UI file if needed.
 
 ---
 
