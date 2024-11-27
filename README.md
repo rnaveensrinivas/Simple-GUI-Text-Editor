@@ -21,6 +21,7 @@ pip install PyQt5
 ```
 ### Install Qt Designer 
 You can install it from this [link]([url](https://build-system.fman.io/qt-designer-download)).
+Note: Qt Designer is not needed for running the application. It is for modifying the UI.
 
 ---
 
